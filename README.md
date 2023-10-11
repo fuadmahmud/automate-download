@@ -8,3 +8,4 @@ This script using bash will download the programming language you needed with th
 1. golang
 1. python3
 
+Please ensure you have installed wget and tar before run the automate bash script
